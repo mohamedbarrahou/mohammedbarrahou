@@ -1,6 +1,6 @@
 # About Me
 
-👋 Hi there! I’m mohamed, a dedicated Embedded Systems Engineer with a focus on C++ development. I have a passion for designing and optimizing embedded systems, and I enjoy tackling complex challenges to deliver high-performance solutions.
+👋 Hi there! I’m mohamed barrahou, a dedicated Embedded Systems Engineer with a focus on C++ development. I have a passion for designing and optimizing embedded systems, and I enjoy tackling complex challenges to deliver high-performance solutions.
 
 ## What I Do
 
